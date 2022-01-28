@@ -1,0 +1,40 @@
+{
+    "emailclient": {
+        "user": "GreenvilleRpbotmail@gmail.com",
+        "password": "Igorek2009",
+        "host": "imap.gmail.com",
+        "port": "993",
+        "tls": true,
+        "options": {               "_comment_": "These are the search options for the Emails to check!",
+            "FROM": "",
+            "TO": "",
+            "SUBJECT": "",
+            "DATE": ""
+        },
+        "INPUT_BOX": "Inbox", "comment": "If you are having a subbox / label where the emails should be found type them, Example: [Gmail]/Spam, Milrato/Paypal,  INBOX   | YOU WILL SEE ALL AVAILABLE BOXES WHEN STARTING THE EMAIL CLIENT!",
+        "loop_check_time_in_min": 1
+        
+    },    "channel": "927538849670909983",
+    "embed": {
+        "color": "#f4ff00",
+        "Thumbnail": "",
+        "Footer": {
+            "ALLOW": false,
+            "icon": "",
+            "text": ""
+        },
+        "Author": {
+            "ALLOW": false,
+            "icon": "",
+            "text": ""
+        }  
+    },
+    
+    "Embed_Defaults": {
+        "EmbedColour": "RANDOM"
+    },
+        
+    "JOINTOCREATECHANNEL": "933443321253199892",
+    "CHANNEL_WELCOME": "863775997278945300",
+    "ROLES_WELCOME": ["863396706728017941",""]
+}
